@@ -1,0 +1,35 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.Python
+
+# Ambientes virtuais
+.venv/
+.venv-wsl/
+venv/
+env/
+
+# IDE/Editor
+.vscode/
+*.code-workspace
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Artefatos gerados pela simulação/relatórios
+resultados_simulacao.json
+resultados_simulacao.csv
+relatorio_interativo.html
+relatorio_simples.html
+snapshot_sistema.json
+comparacao_basica.png
+grafico_*.png
+*/comparacao_basica.png
+*/grafico_*.png
+
+# Notebooks e caches (se aparecerem)
+.ipynb_checkpoints/
