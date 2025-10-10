@@ -189,7 +189,7 @@ ANDROID OPEN SOURCE PROJECT (AOSP). Android Developers Documentation.
 
 ###  📄 Relatório Completo do Projeto
 
-[![Ver Relatório PDF](https://github.com/oRodolfo/SIMULACAO-ESCALONAMENTO/blob/3512afbc31679e3c8835a5512afdfd14e8fe825b/ALGORITMO%20DE%20ESCALONAMENTO%20EM%20SISTEMAS%20OPERACIONAIS.pdf)
+[📄 Clique aqui para abrir o Relatório PDF](https://github.com/oRodolfo/SIMULACAO-ESCALONAMENTO/blob/3512afbc31679e3c8835a5512afdfd14e8fe825b/ALGORITMO%20DE%20ESCALONAMENTO%20EM%20SISTEMAS%20OPERACIONAIS.pdf)
 
 ---
 
