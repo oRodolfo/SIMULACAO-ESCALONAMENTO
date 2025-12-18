@@ -11,17 +11,6 @@ Foi desenvolvido um **simulador em Python** capaz de comparar os algoritmos **FC
 
 ---
 
-## 👥 Integrantes
-
-| Nome | RA |
-|------|----|
-| Arthur Peixoto Lacerda | 116319 |
-| Guilherme Henrique Cavarsan | 117017 |
-| Octavio Thim Dias | 117607 |
-| Rodolfo Henrique Ribeiro Zanchetta | 117179 |
-
----
-
 ## 📘 Resumo
 
 O trabalho tem como objetivo **avaliar o desempenho dos principais algoritmos de escalonamento**, verificando como cada sistema operacional (Windows, Linux e Android) reage sob diferentes cargas de trabalho.
